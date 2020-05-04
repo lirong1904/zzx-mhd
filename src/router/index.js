@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-import Home from '../views/Home'
+import Home from '@/views/Home'
 import Classify from '@/views/classify'
 import Hello from '@/views/Hello'
 import Favorite from '@/views/Hello/Favorite'
